@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="tr">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bilmüh</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/styles.css">
+    <link href='https://fonts.googleapis.com/css?family=Oxygen:400,300,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Lora' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel='stylesheet' id='BNS-Corner-Logo-Style-css'  href='social_icons_from_Techandallcom.css' type='text/css' media='screen' />
+  </head>
+<body>
+  <header>
+    <nav id="header-nav" class="navbar navbar-default">
+      <div class="container">
+        <div class="navbar-header">
+          <a href="index.html" class="pull-left visible-md visible-lg">
+            <div id="logo-img"></div>
+          </a>
+
+          <div class="navbar-brand">
+            <a href="index.html"><h1>Ege Üniversitesi <br><br>Bilgisayar Mühendisliği </h1></a> 
+          </div>
+
+          <button id="navbarToggle" type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#collapsable-nav" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>
+        
+        <div id="collapsable-nav" class="collapse navbar-collapse">
+           <ul id="nav-list" class="nav navbar-nav navbar-right">
+            <li id="navHomeButton" class="visible-xs active">
+              <a href="index.html">
+                <span class="glyphicon glyphicon-home"></span> Anasayfa</a>
+            </li>
+            <li id="navMenuButton">
+              <a href="#" onclick="$dc.loadMenupersonalCategories();" >
+                <span class="glyphicon glyphicon-user"></span><br class="hidden-xs"> Personel</a>
+            <li>
+              <a href="#" onclick="$dc.loadMenuCategories();">
+                <span class="glyphicon glyphicon-book"></span><br class="hidden-xs"> Eğitim</a>
+            </li>
+            <li>
+              <a href="#">
+                <span class="glyphicon glyphicon-info-sign"></span><br class="hidden-xs"> Hakkımızda</a>
+            </li>
+          </ul><!-- #nav-list -->
+        </div><!-- .collapse .navbar-collapse -->
+      </div><!-- .container -->
+    </nav><!-- #header-nav -->
+  </header>
+
+  <div id="main-content" class="container"></div>
+
+  <footer class="panel-footer">
+    <div class="container">
+      <div class="row">
+        <section id="Yararlı Linkler" class="col-sm-3">
+          <strong>&nbsp&nbsp YARARLI LİNKLER</strong><br><br>
+		  <div class="sos">
+          <ul >
+
+              <a href="#" data-toggle="tooltip" title="Ege Üniversitesi">
+                <span class="glyphicon glyphicon-tower"></span></a>
+            
+              <a href="#" data-toggle="tooltip" title="E-Posta">
+                <span class="glyphicon glyphicon-envelope"></span></a>
+ 
+		  </ul>
+		
+		  <ul >
+			
+              <a href="#" data-toggle="tooltip" title="İletişim">
+                <span class="glyphicon glyphicon-phone-alt"></span></a>
+            
+              <a href="#" data-toggle="tooltip" title="Duyurular">
+                <span class="glyphicon glyphicon-volume-up"></span></a>
+           
+		  </ul>
+		  
+		  <ul>
+			
+              <a href="#"data-toggle="tooltip" title="Mezunlar">
+                <span class="glyphicon glyphicon-education"></span></a>
+           
+              <a href="#" data-toggle="tooltip" title="Harita">
+                <span class="glyphicon glyphicon-map-marker"></span></a>
+
+		  </ul>
+		  </div>
+          <hr class="visible-xs">
+        </section>
+        <section id="Adres" class="col-sm-3">
+          <strong>ADRES</strong><br><br>
+			<p>Ege Üniversitesi <br>Mühendislik Fakültesi<br>Bilgisayar Mühendisliği Bölümü</p>
+			<p>Kazımdirik Mahallesi,<br>Bornova Metro İstasyonu Karşısı,<br>35100 Bornova / İZMİR</p>
+          <hr class="visible-xs">
+        </section>
+        <section id="İletişim" class="col-sm-3">
+		  <strong>İLETİŞİM</strong><br>
+          <h5>Telefon:</h5><h4>&nbsp +90 232 388 72 21</h4>	  
+          <h5>Faks:</h5><h4>&nbsp +90 232 339 94 05</h4>
+		  <h5>E-Posta:</h5><h4>&nbsp bilmuh@mail.ege.edu.tr</h4>
+		  <hr class="visible-xs">
+        </section>
+		<section id="Sosyal Medya" class="col-sm-3">
+		  <strong>SOSYAL MEDYA</strong><br><br>
+		 
+			  	<div id="redessociales">
+          			<a class="smedia facebook" href="https://www.facebook.com/eucompeng"></a>
+          			<a class="smedia twitter" href="https://twitter.com/UniversiteEge"></a>         			
+          			<a class="smedia youtube" href="https://www.youtube.com/c/egeuniversitesi"></a>        			          			
+    			</div>
+			  
+        </section>
+      </div>
+      <div class="text-center"> Ege Üniversitesi - Bilgisayar Mühendisliği Bölümü &copy; 2017
+</div>
+    </div>
+  </footer>
+
+
+  <!-- jQuery (Bootstrap JS plugins depend on it) -->
+  <script src="js/jquery-2.1.4.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/ajax-utils.js"></script>
+  <script src="js/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,104 @@
+[
+	  {
+		"id": 81,
+		"catShortName":"O",
+		"short_name": "O1",
+		"name": "Oğuz DİKENELLİ, Prof.Dr.",
+		"pozisyon":"Bölüm Başkanı",
+		"posta":"oguz.dikenelli@ege.edu.tr",
+		"special_instructions": "İlgi ve Araştırma Alanları: Etmen Tabanlı Yazılım Mühendisliği, Bağlı Veri, Veb, Etmen Tabanlı Simülasyon, Çevik Yazılım Geliştirme",
+		"url": ""
+	  },
+	  {
+		"id": 82,
+		"catShortName":"O",
+		"short_name": "O2",
+		"name": "Serdar KORUKOĞLU, Prof.Dr.",
+		"pozisyon":"Uluslararası Bilgisayar Enstitüsü Müdürü Vekili /Bilgisayar Bilimleri Ana Bilim Dalı Başkanı",
+		"posta":"serdar.korukoglu@ege.edu.tr",
+		"special_instructions": "İlgi ve Araştırma Alanları: Sistem Modelleme ve Simülasyonu, Sayısal Yöntemler, İstatistik Analizler, Optimizasyon Teknikleri, Veri Madenciliği",
+		"url": ""
+	  },
+	  {
+		"id": 83,
+		"catShortName":"O",
+		"short_name": "O3",
+		"name": "Levent TOKER, Prof.Dr.",
+		"pozisyon":"Öğretim Üyesi ",
+		"posta":"toker1960@gmail.com",
+		"special_instructions": "İlgi ve Araştırma Alanları: Bilgisayar Ağları, Mobil Ağlar, Bilgisayar Ağı Yönetimi",
+		"url": ""
+	  },
+	  {
+		"id": 84,
+		"catShortName":"O",
+		"short_name": "O4",
+		"name": "Yasemin TOPALOĞLU, Prof.Dr.",
+		"pozisyon":"Öğretim Üyesi",
+		"posta":"yasemin.topaloglu@ege.edu.tr",
+		"special_instructions": "İlgi ve Araştırma Alanları: Yazılım Mühendisliği, Model Tabanlı Yazılım Mühendisliği, Yazılım Mimarisi",
+		"url": ""
+	  },
+	  {
+		"id": 85,
+		"catShortName":"O",
+		"short_name": "O5",
+		"name": "Aybars UĞUR, Prof.Dr.",
+		"pozisyon":"Bilgisayar Yazılımı Ana Bilim Dalı Başkanı",
+		"posta":"aybars.ugur@ege.edu.tr",
+		"special_instructions": "İlgi ve Araştırma Alanları: Yapay Zeka, Metasezgisel Algoritmalar, Eniyileme, Zeki Sistemler, Makine Öğrenmesi, Görüntü İşleme, Bilgisayar Grafikleri, Veri Yapıları",
+		"url": ""
+	  },
+	  {
+		"id": 86,
+		"catShortName":"O",
+		"short_name": "O6",
+		"name": "Rıza Cenk ERDUR, Doç.Dr.",
+		"pozisyon":"Bölüm Başkan Yardımcısı",
+		"posta":"cenk.erdur@ege.edu.tr",
+		"special_instructions": "İlgi ve Araştırma Alanları: Yazılım Etmenleri ve Çok Etmenli Sistemler, Anlamsal Web ve Bağlı Veri, Nesneye Dayalı Yazılım Geliştirme",
+		"url": ""
+	  },
+	  {
+		"id": 87,
+		"catShortName":"O",
+		"short_name": "O7",
+		"name": "Murat Osman ÜNALIR, Doç.Dr.",
+		"pozisyon":"Bölüm Başkan Yardımcısı ",
+		"posta":"murat.osman.unalir@ege.edu.tr",
+		"special_instructions": "İlgi ve Araştırma Alanları: Anlamsal Web, Ontoloji Mühendisliği, Veri Yönetimi, Bilgi Sistemleri, Yazılım Mühendisliği",
+		"url": ""
+	  },
+	  {
+		"id": 88,
+		"catShortName":"O",
+		"short_name": "O8",
+		"name": "Vecdi AYTAÇ, Doç.Dr.",
+		"pozisyon":"Öğretim Üyesi",
+		"posta":"vecdi.aytac@ege.edu.tr",
+		"special_instructions": "İlgi ve Araştırma Alanları: Algoritmalar, Hesaplama Yöntemleri, Çizge Kuramı",
+		"url": ""
+	  },
+	  {
+		"id": 89,
+		"catShortName":"O",
+		"short_name": "O9",
+		"name": "Aylin KANTARCI, Prof.Dr.",
+		"pozisyon":"Bilgisayar Donanımı Ana Bilim Dalı Başkanı",
+		"posta":"aylin.kantarci@ege.edu.tr",
+		"special_instructions": "İlgi ve Araştırma Alanları: İşletim Sistemleri, Bilgisayar Ağları, Dağıtık Sistemler, Çoklu Ortam Sistemleri, Kablosuz Algılayıcı Ağlar",
+		"url": ""
+	  },
+	  {
+		"id": 90,
+		"catShortName":"O",
+		"short_name": "O10",
+		"name": "Şebnem BORA, Yrd.Doç.Dr.",
+		"pozisyon":"Öğretim Üyesi",
+		"posta":"sebnem.bora@ege.edu.tr",
+		"special_instructions": "İlgi ve Araştırma Alanları: Sistem Modelleme ve Simülasyonu, Sayısal Yöntemler, İstatistik Analizler, Optimizasyon Teknikleri, Veri Madenciliği",
+		"url": ""
+	  }
+	]
+
+	
