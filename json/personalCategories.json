@@ -5,5 +5,19 @@
     "name": "ÖGRETİM ÜYELERİ",
     "special_instructions": "EGE ÜNİVERSİTESİ ÖĞRETİM ÜYELERİ",
     "url": " "
+  },
+  {
+    "id": 83,
+    "short_name": "A",
+    "name": "AKADEMİK YARDIMCI",
+    "special_instructions": "EGE ÜNİVERSİTESİ ÖĞRETİM ÜYELERİ",
+    "url": " "
+  },
+  {
+    "id": 84,
+    "short_name": "I",
+    "name": "İDARİ TEKNİK",
+    "special_instructions": "EGE ÜNİVERSİTESİ ÖĞRETİM ÜYELERİ",
+    "url": " "
   }
 ]
